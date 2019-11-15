@@ -1,6 +1,11 @@
 package cn.xdl.entity;
 
 public class Teacher {
+
+	public static void main(String[] args) {
+
+	}
+
 	private int id;
 	private String name;
 	private int age;
